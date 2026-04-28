@@ -1,0 +1,26 @@
+# RSI Compliance Audit Targets
+#
+# Sites: bare domains (no scheme). The auditor tries https first,
+# falls back to a headless Chromium fetch when the WAF blocks the
+# basic request.
+#
+# Repos: "owner/repo" entries audited via the GitHub API. Requires
+# GITHUB_TOKEN in the environment for private repos / higher rate limits.
+
+sites:
+  - heldtheline.com
+  - iheldtheline.com
+  - 42ndsquadron.com
+  - screferralbonus.com
+  - screferralreward.com
+  - o7citizen.gg
+  - bestspacesim.com
+  - freeflyevent.com
+  - pledgemeaning.com
+  - highestfundedgame.com
+  - mostfundedgame.com
+  - o7meaning.com
+  - o7citizens.com
+  - o7citizen.com
+
+repos: []
