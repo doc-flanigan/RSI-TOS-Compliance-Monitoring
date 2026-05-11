@@ -1,6 +1,6 @@
 # URGENT — RSI Compliance Action Required
-**Generated:** 2026-05-04
-**Full Report:** [rsi-compliance-2026-05-04.md](./rsi-compliance-2026-05-04.md)
+**Generated:** 2026-05-11
+**Full Report:** [rsi-compliance-2026-05-11.md](./rsi-compliance-2026-05-11.md)
 
 ## Critical Findings (FAIL)
 
@@ -8,7 +8,7 @@
 - **fetch**: Could not fetch live content (HTTP None) — content checks skipped
 
 ### iheldtheline.com
-- **fetch**: Could not fetch live content (HTTP None) — content checks skipped
+- **fetch**: Could not fetch live content (HTTP 422) — content checks skipped
 
 ### 42ndsquadron.com
 - **fetch**: Could not fetch live content (HTTP None) — content checks skipped
@@ -17,9 +17,6 @@
 - **fetch**: Could not fetch live content (HTTP None) — content checks skipped
 
 ### pledgemeaning.com
-- **fetch**: Could not fetch live content (HTTP None) — content checks skipped
-
-### o7meaning.com
 - **fetch**: Could not fetch live content (HTTP None) — content checks skipped
 
 ### o7citizens.com
