@@ -1,6 +1,6 @@
 # URGENT — RSI Compliance Action Required
-**Generated:** 2026-06-08
-**Full Report:** [rsi-compliance-2026-06-08.md](./rsi-compliance-2026-06-08.md)
+**Generated:** 2026-06-15
+**Full Report:** [rsi-compliance-2026-06-15.md](./rsi-compliance-2026-06-15.md)
 
 ## Critical Findings (FAIL)
 
@@ -8,9 +8,6 @@
 - **fetch**: Could not fetch live content (HTTP None) — content checks skipped
 
 ### 42ndsquadron.com
-- **fetch**: Could not fetch live content (HTTP None) — content checks skipped
-
-### screferralbonus.com
 - **fetch**: Could not fetch live content (HTTP None) — content checks skipped
 
 ### o7citizen.gg
