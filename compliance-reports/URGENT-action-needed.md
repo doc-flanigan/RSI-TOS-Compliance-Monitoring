@@ -1,6 +1,6 @@
 # URGENT — RSI Compliance Action Required
-**Generated:** 2026-08-31
-**Full Report:** [rsi-compliance-2026-08-31.md](./rsi-compliance-2026-08-31.md)
+**Generated:** 2026-09-07
+**Full Report:** [rsi-compliance-2026-09-07.md](./rsi-compliance-2026-09-07.md)
 
 ## Critical Findings (FAIL)
 
@@ -8,7 +8,7 @@
 - **disclaimer**: Required RSI fan-site disclaimer not found ('unofficial fan site, not affiliated with RSI/CIG')
 
 ### o7citizen.gg
-- **disclaimer**: Required RSI fan-site disclaimer not found ('unofficial fan site, not affiliated with RSI/CIG')
+- **fetch**: Could not fetch live content (HTTP None) — content checks skipped
 
 ### o7citizens.com
 - **fetch**: Could not fetch live content (HTTP None) — content checks skipped
