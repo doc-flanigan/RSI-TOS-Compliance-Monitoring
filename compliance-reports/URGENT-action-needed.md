@@ -1,11 +1,8 @@
 # URGENT — RSI Compliance Action Required
-**Generated:** 2026-09-28
-**Full Report:** [rsi-compliance-2026-09-28.md](./rsi-compliance-2026-09-28.md)
+**Generated:** 2026-10-05
+**Full Report:** [rsi-compliance-2026-10-05.md](./rsi-compliance-2026-10-05.md)
 
 ## Critical Findings (FAIL)
-
-### 42ndsquadron.com
-- **disclaimer**: Required RSI fan-site disclaimer not found ('unofficial fan site, not affiliated with RSI/CIG')
 
 ### o7citizen.gg
 - **fetch**: Could not fetch live content (HTTP None) — content checks skipped
