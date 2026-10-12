@@ -1,6 +1,6 @@
 # URGENT — RSI Compliance Action Required
-**Generated:** 2026-10-05
-**Full Report:** [rsi-compliance-2026-10-05.md](./rsi-compliance-2026-10-05.md)
+**Generated:** 2026-10-12
+**Full Report:** [rsi-compliance-2026-10-12.md](./rsi-compliance-2026-10-12.md)
 
 ## Critical Findings (FAIL)
 
